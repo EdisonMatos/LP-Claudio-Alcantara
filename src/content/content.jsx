@@ -47,8 +47,8 @@ export const infos = {
   domain: "clausioalcantaraadv.com.br", // Sem "www"
   phone: {
     ddd: "77",
-    firstPart: "99814", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "8940", // Apenas os 4 últimos números
+    firstPart: "99912", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "8088", // Apenas os 4 últimos números
   },
   endereco: (
     <div>
