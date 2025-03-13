@@ -12,6 +12,8 @@ import FooterSocial from "../components/sections/FooterSocial";
 import FloatingWhatsappButton from "../components/interactives/FloatingWhatsappButton";
 import BackToTopButton from "../components/interactives/BackToTopButton";
 
+// comentario para subir e abrir pr
+
 export default function Index() {
   return (
     <div>
